@@ -1,10 +1,14 @@
 # Weather Forecast App
 
-A minimal three-day weather forecast app built with React and Vite.
+A minimal three-day weather forecast app built with React and Vite. 
+
+https://weatherforecast-v1.vercel.app/
 
 ## Setup
 
 1. Clone the repository
+
+   
 2. Install dependencies:
    ```bash
    npm install
